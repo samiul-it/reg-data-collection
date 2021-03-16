@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(191, 185, 18);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* input{
+    background-color: aquamarine;
+    text-align: center;
+}
+span{
+    background-color: burlywood;
+    
+    
+} */
+.jumbotron{
+    background-color: rgb(88, 155, 134);
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+}
+input{
+    background-color: rgb(91, 110, 145);
+
+}
+h1{
+    background-color: rgb(209, 196, 164);
+    border-radius: 150px;
+    width: 50%;
+}
